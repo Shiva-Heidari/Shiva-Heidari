@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Shiva Heidari
 
-<!--
-**Shiva-Heidari/Shiva-Heidari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Postdoctoral researcher in theoretical condensed matter physics  
+🧪 Modeling quantum materials, coherence, topological qubits, and more  
+💻 Currently exploring quantum computing with Qiskit + Python  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Background
+
+- 📍 Based in Upstate NY  
+- 🎓 PhD in Physics
+- 🔬 Research focus: quantum coherence, Josephson junctions, spintronics, and nonlinear transport  
+- 📝 8+ peer-reviewed publications  
+- 🧑‍🏫 Experienced collaborator across theory and experiment
+
+---
+
+## 🚀 What I'm Working On
+
+- ✅ Step-by-step learning project: [quantum-computing-notes](https://github.com/Shiva-Heidari/quantum-computing-notes)  
+- 🔍 Bell states, Bloch spheres, and quantum gates in Qiskit  
+- 🧰 Exploring simulations, statevectors, and visualizations  
+- ✍️ Building a habit of committing and learning in public
+
+---
+
+## 📫 Let's Connect
+
+- 💌 Email: heidarishivaa@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/shiva-heidari)  
+- 🧠 Open to collaborations in quantum simulation, modeling, or quantum software R&D
