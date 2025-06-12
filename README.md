@@ -18,4 +18,4 @@
 
 # Let's Connect
 - Email: heidarishivaa@gmail.com  
-- [LinkedIn](https://www.linkedin.com/in/shiva-heidari)  
+- [LinkedIn](www.linkedin.com/in/shivaheidari)  
