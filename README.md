@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shiva Heidari
 
-I'm a Research Scientist with a Ph.D. in Condensed Matter Physics, focused on modeling quantum devices and improving coherence in real systems. I've led several end-to-end research projects on topological superconductors, strain-tuned quantum states, spin transport, and optoelectronics. I love turning theory into impact through simulation, data analysis, and hands-on coding in Python. I enjoy working across theory and experiment to help build the next generation of quantum tech.
+I'm a Research Scientist with a Ph.D. in Condensed Matter Physics, focused on modeling quantum devices and improving coherence in real systems. I've led several research projects on topological superconductors, strain-tuned quantum states, spin transport, and optoelectronics. I love turning theory into impact through simulation, data analysis, and hands-on coding in Python. I enjoy working across theory and experiment to help build the next generation of quantum tech.
 
 I'm updating this GitHub with Qiskit-based projects as part of my transition into the quantum tech industry, showcasing my hands-on skills and commitment to applying my research background in real-world quantum computing applications.
 
