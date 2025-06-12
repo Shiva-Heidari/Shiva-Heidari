@@ -17,4 +17,6 @@ I'm updating this GitHub with Qiskit-based projects as part of my transition int
 
 # Let's Connect
 - Email: heidarishivaa@gmail.com  
-- [LinkedIn](www.linkedin.com/in/shivaheidari)  
+- [LinkedIn] (www.linkedin.com/in/shivaheidari)
+
+
