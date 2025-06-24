@@ -1,22 +1,29 @@
 # 👋 Hi, I'm Shiva Heidari
 
-I'm a Research Scientist with a Ph.D. in Condensed Matter Physics, focused on modeling quantum devices and improving coherence in real systems. I've led several research projects on topological superconductors, strain-tuned quantum states, spin transport, and optoelectronics. I love turning theory into impact through simulation, data analysis, and hands-on coding in Python. I enjoy working across theory and experiment to help build the next generation of quantum tech.
+I'm a Research Scientist with a Ph.D. in Condensed Matter Physics, currently transitioning into the quantum computing industry. My background focuses on modeling superconducting qubits, coherence dynamics, and quantum transport in real materials. I've led several simulation-driven research projects bridging theoretical physics and experimental challenges from topological superconductors to quantum coherence in device environments.
 
-I'm updating this GitHub with Qiskit-based projects as part of my transition into the quantum tech industry, showcasing my hands-on skills and commitment to applying my research background in real-world quantum computing applications.
+Here on GitHub, I'm building a portfolio of quantum computing projects using **Qiskit** and **QuTiP**, showcasing my hands-on work in:
 
----
+- Quantum circuit modeling and state analysis
+- Decoherence simulation (T1, T2, TLS noise)
+- Gate fidelity and qubit reliability under noise
+- Translating real physics into simulation-driven insight
 
-# What I'm Working On here at GitGub
+I'm passionate about turning theory into practical tools and code that help advance next-generation quantum hardware.
 
-- Step-by-step learning project: [quantum-computing-notes](https://github.com/Shiva-Heidari/quantum-computing-notes)  
-- Quantum Circuits, Entanglement, and quantum gates in Qiskit  
-- Exploring simulations, statevectors, and visualizations  
-- Building a habit of committing and learning in public
 
----
+## What I'm Working On
 
-# Let's Connect
-- Email: heidarishivaa@gmail.com  
-- [LinkedIn] (www.linkedin.com/in/shivaheidari)
+- **T1 and T2 Decoherence Simulation** using QuTiP  
+- **Quantum Teleportation with Qiskit** (ideal + noisy protocol)  
+- **Two-Level System (TLS) Noise Modeling** (coming soon)  
+- **Gate Fidelity Simulation under Noise** (planned)  
+- Building habits of publishing in public and contributing to open science
 
+
+## Let's Connect
+
+📧 Email: heidarishivaa@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/shivaheidari)  
+🌐 [GitHub Projects Board](https://github.com/users/Shiva-Heidari/projects/1) – Quantum Computing Projects
 
