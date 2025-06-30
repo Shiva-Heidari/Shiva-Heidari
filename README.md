@@ -12,9 +12,8 @@ Here on GitHub, I'm building a portfolio of quantum computing projects using **Q
 
 I'm passionate about turning theory into practical tools and code that help advance next-generation quantum hardware.
 
----
 
-## 🚧 Projects in Progress
+## Projects in Progress
 
 - **T₁ and T₂ Decoherence Simulation** using QuTiP  
 - **Quantum Teleportation with Qiskit** (ideal + noisy protocol)  
