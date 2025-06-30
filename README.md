@@ -28,7 +28,7 @@ I’m also developing a habit of publishing my work openly and contributing to a
 
 ---
 
-## 📬 Let's Connect
+## Let's Connect
 
 📧 Email: heidarishivaa@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/shivaheidari)  
