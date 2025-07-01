@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shiva Heidari
 
-I'm a Research Scientist with a Ph.D. in Condensed Matter Physics, currently transitioning into the quantum computing industry. My expertise lies in modeling quantum and semiconductor devices, quantum coherence, and quantum transport in real materials. I've led several simulation-driven research projects that bridge theoretical physics with experimental challenges, from topological superconductors to quantum coherence in device environments.
+I am a Research Scientist with a Ph.D. in Condensed Matter Physics, currently transitioning into the quantum computing industry. My expertise lies in modeling quantum and semiconductor devices, quantum coherence, and quantum transport in real materials. I've led several simulation-driven research projects that bridge theoretical physics with experimental challenges, from topological superconductors to quantum coherence in device environments.
 
 Here on GitHub, I'm building a portfolio of quantum computing projects using **Qiskit** and **QuTiP**, showcasing my hands-on work in:
 
@@ -10,7 +10,7 @@ Here on GitHub, I'm building a portfolio of quantum computing projects using **Q
 - Hardware-aware transpilation and layout visualization  
 - Translating physical intuition into simulation-driven insight
 
-I'm passionate about turning theory into practical tools and code that help advance next-generation quantum hardware.
+I am passionate about turning theory into practical tools and code that help advance next-generation quantum hardware.
 
 
 ## Projects in Progress
@@ -24,7 +24,7 @@ I'm passionate about turning theory into practical tools and code that help adva
 - **Two-Level System (TLS) Noise Modeling** *(coming soon)*  
 - **Gate Fidelity Simulation under Noise** *(planned)*  
 
-I’m also developing a habit of publishing my work openly and contributing to accessible, educational quantum computing content.
+I am also developing a habit of publishing my work openly and contributing to accessible, educational quantum computing content.
 
 ---
 
