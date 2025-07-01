@@ -5,7 +5,7 @@ I'm a Research Scientist with a Ph.D. in Condensed Matter Physics, currently tra
 Here on GitHub, I'm building a portfolio of quantum computing projects using **Qiskit** and **QuTiP**, showcasing my hands-on work in:
 
 - Quantum circuit modeling and state analysis  
-- Decoherence simulation (T₁, T₂, TLS noise)  
+- Decoherence simulation in superconducting qubits 
 - Gate fidelity and qubit reliability under noise  
 - Hardware-aware transpilation and layout visualization  
 - Translating physical intuition into simulation-driven insight
@@ -15,7 +15,7 @@ I'm passionate about turning theory into practical tools and code that help adva
 
 ## Projects in Progress
 
-- **T₁ and T₂ Decoherence Simulation** using QuTiP  
+- **Decoherence Simulation** using QuTiP  
 - **Quantum Teleportation with Qiskit** (ideal + noisy protocol)  
 - **Hardware-Aware Circuit Mapping**  (coming soon)
   - Simulated transpilation on fake backends (Brisbane, Athens, Yorktown)  
