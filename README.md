@@ -17,7 +17,7 @@ I am passionate about turning theory into practical tools and code that help adv
 
 - **Decoherence Simulation** using QuTiP  
 - **Quantum Teleportation with Qiskit** (ideal + noisy protocol)  
-- **Hardware-Aware Circuit Mapping**  (coming soon)
+- **Hardware-Aware Circuit Mapping** 
   - Simulated transpilation on fake backends (Brisbane, Athens, Yorktown)  
   - Real-device transpilation on IBM backends (e.g., Sherbrooke)  
   - Visualization of physical qubit layouts and circuit depth comparisons  
