@@ -42,4 +42,4 @@ I am also developing a habit of publishing my work openly and contributing to ac
 
 📧 Email: heidarishivaa@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/shivaheidari)  
-🌐 [GitHub Projects Board](https://github.com/users/Shiva-Heidari/projects/1): Quantum Computing Projects  
+🌐 [GitHub Projects Board][https://github.com/users/Shiva-Heidari/projects/1](https://github.com/Shiva-Heidari?tab=projects)]: Quantum Computing Projects  
