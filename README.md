@@ -16,6 +16,9 @@ I am passionate about turning theory into practical tools and code that help adv
 
 ## Projects in Progress
 
+- **Floquet SPT-MBL Simulation in a 6-Qubit Chain**  
+  Simulates a periodically driven disordered spin chain hosting edge-localized π-modes protected by many-body localization. Includes autocorrelation and entropy analysis.
+
 - **Trotter Simulation of Superconducting Qubits**  
   Digitally simulate 2- and 3-qubit superconducting systems using second-order Trotter-Suzuki decomposition. Analyze unitary dynamics, entanglement entropy growth, and fidelity against exact evolution.
 
