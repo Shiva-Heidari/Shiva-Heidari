@@ -20,7 +20,7 @@ I am passionate about turning theory into practical tools and code that help adv
   Simulates a periodically driven disordered spin chain hosting edge-localized π-modes protected by many-body localization. 
 
 - **Trotter Simulation of Superconducting Qubits**  
-  Digitally simulate 2- and 3-qubit superconducting systems using second-order Trotter-Suzuki decomposition. Analyze unitary dynamics, entanglement entropy growth, and fidelity against exact evolution.
+  Digitally simulate 2- and 3-qubit superconducting systems using second-order Trotter-Suzuki decomposition. 
 
 - **Decoherence Simulation using QuTiP**  
   Model open quantum systems and extract T₁ and T₂ times in the presence of noise. Includes comparison between Lindblad and TLS-based decoherence models.
