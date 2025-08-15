@@ -35,7 +35,7 @@ I am passionate about turning theory into practical tools and code that help adv
   Simulate how TLS-induced fluctuations affect superconducting qubit coherence using QuTiP. Compare TLS vs. Lindblad models for realistic noise simulation.
 
 - **Gate Fidelity under Realistic Noise** _(planned)_  
-  Analyze quantum gate performance in the presence of measurement and decoherence noise. Compute process fidelity and visualize gate robustness across devices.
+  Analyze quantum gate performance in the presence of measurement and decoherence noise. 
 
 I am also developing a habit of publishing my work openly and contributing to accessible, educational quantum computing content.
 
