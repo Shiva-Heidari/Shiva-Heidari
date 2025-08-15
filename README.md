@@ -29,7 +29,7 @@ I am passionate about turning theory into practical tools and code that help adv
   Demonstrates ideal and noisy quantum teleportation protocols with fidelity analysis across various error models and backends.
 
 - **Hardware-Aware Circuit Mapping**  
-  Simulate and visualize transpilation of quantum circuits onto real hardware (e.g., Sherbrooke, Toronto) and fake backends (e.g., Athens, Jakarta). Analyze circuit depth, coupling maps, and noise-aware layout strategies.
+  Simulate and visualize transpilation of quantum circuits onto real hardware (e.g., Sherbrooke, Toronto) and fake backends (e.g., Athens, Jakarta). A
 
 - **Two-Level System (TLS) Noise Modeling** _(in progress)_  
   Simulate how TLS-induced fluctuations affect superconducting qubit coherence using QuTiP. Compare TLS vs. Lindblad models for realistic noise simulation.
