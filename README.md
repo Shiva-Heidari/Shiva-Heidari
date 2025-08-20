@@ -31,7 +31,7 @@ I am passionate about turning theory into practical tools and code that help adv
 - **Hardware-Aware Circuit Mapping**  
   Simulate and visualize transpilation of quantum circuits onto real hardware (e.g., Sherbrooke, Toronto) and fake backends (e.g., Athens, Jakarta). A
 
-- **Two-Level System (TLS) Noise Modeling** _(in progress)_  
+- **Two-Level System (TLS) Noise Modeling** _(in progress)_   
   Simulate how TLS-induced fluctuations affect superconducting qubit coherence using QuTiP. Compare TLS vs. Lindblad models for realistic noise simulation.
 
 - **Gate Fidelity under Realistic Noise** _(planned)_  
