@@ -6,7 +6,7 @@ Here on GitHub, I am building a portfolio of quantum computing projects using **
 
 - Quantum circuit modeling and state analysis
 - Trotter methods to simulate time evolution of quantum systems
-- Decoherence simulation in superconducting qubits 
+- Decoherence simulation in superconducting qubits  
 - Gate fidelity and qubit reliability under noise  
 - Hardware-aware transpilation and layout visualization
 - Qiskit simulation of noise model
