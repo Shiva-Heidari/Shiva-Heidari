@@ -5,6 +5,7 @@ I am a Research Scientist with a Ph.D. in Condensed Matter Physics, currently tr
 Here on GitHub, I am building a portfolio of quantum computing projects using **Qiskit** and **QuTiP**, showcasing my hands-on work in:
 
 - Quantum circuit modeling and state analysis
+- Josephson Junctions and transmon qubits
 - Trotter methods to simulate time evolution of quantum systems
 - Decoherence simulation in superconducting qubits  
 - Gate fidelity and qubit reliability under noise  
