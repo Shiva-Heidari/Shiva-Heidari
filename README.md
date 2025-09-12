@@ -16,6 +16,8 @@ I am passionate about turning theory into practical tools and code that help adv
 
 
 ## Projects in Progress
+- **JJ → Transmon (Qiskit)**
+End-to-end modeling and simulation: connect device design to qubit behavior; run canonical control experiments with realistic noise.
 
 - **Floquet SPT-MBL Simulation in a 6-Qubit Chain**  
   Simulates a periodically driven disordered spin 6-qubit chain hosting edge-localized π-modes protected by many-body localization. 
