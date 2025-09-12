@@ -33,7 +33,7 @@ End-to-end modeling and simulation: connect device design to qubit behavior; run
   Demonstrates ideal and noisy quantum teleportation protocols with fidelity analysis across various error models and backends.
 
 - **Hardware-Aware Circuit Mapping**  
-  Simulate and visualize transpilation of quantum circuits onto real hardware (e.g., Sherbrooke, Toronto) and fake backends (e.g., Athens, Jakarta). A
+  Simulate and visualize transpilation of quantum circuits onto real hardware (e.g., Sherbrooke, Toronto) and fake backends (e.g., Athens, Jakarta). 
 
 - **Two-Level System (TLS) Noise Modeling** _(in progress)_   
   Simulate how TLS-induced fluctuations affect superconducting qubit coherence using QuTiP. Compare TLS vs. Lindblad models for realistic noise simulation.
