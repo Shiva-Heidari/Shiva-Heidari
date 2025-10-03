@@ -17,7 +17,7 @@ I am passionate about turning theory into practical tools and code that help adv
 
 
 ## Projects in Progress
-- **Josephson Junction → Transmon (Qiskit)**
+- **Josephson Junction → Transmon Qubit **
 End-to-end modeling and simulation: connect device design to qubit behavior; run canonical control experiments with realistic noise.
 
 - **Floquet SPT-MBL Simulation in a 6-Qubit Chain**  
