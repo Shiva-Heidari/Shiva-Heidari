@@ -20,7 +20,7 @@ I am passionate about turning theory into practical tools and code that help adv
 - **Josephson Junction → Transmon Qubit**
 End-to-end modeling and simulation: connect device design to qubit behavior; run canonical control experiments with realistic noise.
 
--**density-matrix simulations of noisy quantum circuits**
+- **density-matrix simulations of noisy quantum circuits**
 
 - **Floquet SPT-MBL Simulation in a 6-Qubit Chain**  
   Simulates a periodically driven disordered spin 6-qubit chain hosting edge-localized π-modes protected by many-body localization. 
