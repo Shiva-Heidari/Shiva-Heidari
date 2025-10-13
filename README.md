@@ -20,8 +20,6 @@ I am passionate about turning theory into practical tools and code that help adv
 - **Josephson Junction → Transmon Qubit**
 End-to-end modeling and simulation: connect device design to qubit behavior; run canonical control experiments with realistic noise.
 
-- **density-matrix simulations of noisy quantum circuits**
-
 - **Floquet SPT-MBL Simulation in a 6-Qubit Chain**  
   Simulates a periodically driven disordered spin 6-qubit chain hosting edge-localized π-modes protected by many-body localization. 
 
@@ -41,8 +39,10 @@ End-to-end modeling and simulation: connect device design to qubit behavior; run
   Simulate how TLS-induced fluctuations affect superconducting qubit coherence using QuTiP. Compare TLS vs. Lindblad models for realistic noise simulation.
 
 - **Gate Fidelity under Realistic Noise** _(planned)_  
-  Analyze quantum gate performance in the presence of measurement and decoherence noise. 
-
+  Analyze quantum gate performance in the presence of measurement and decoherence noise.
+  
+  - **density-matrix simulations of noisy quantum circuits**
+  
 I am also developing a habit of publishing my work openly and contributing to accessible, educational quantum computing content.
 
 ---
