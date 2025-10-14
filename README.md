@@ -41,7 +41,7 @@ End-to-end modeling and simulation: connect device design to qubit behavior; run
 - **Gate Fidelity under Realistic Noise** _(planned)_  
   Analyze quantum gate performance in the presence of measurement and decoherence noise.
   
-  - **density-matrix simulations of noisy quantum circuits**
+- **density-matrix simulations of noisy quantum circuits**
   
 I am also developing a habit of publishing my work openly and contributing to accessible, educational quantum computing content.
 
