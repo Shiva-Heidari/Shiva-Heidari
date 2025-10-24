@@ -37,12 +37,12 @@ End-to-end modeling and simulation: connect device design to qubit behavior; run
 
 - **Two-Level System (TLS) Noise Modeling** 
   Simulate how TLS-induced fluctuations affect superconducting qubit coherence using QuTiP. Compare TLS vs. Lindblad models for realistic noise simulation.
-
-- **Gate Fidelity under Realistic Noise** _(planned)_  
-  Analyze quantum gate performance in the presence of measurement and decoherence noise.
   
 - **density-matrix simulations of noisy quantum circuits**: 
   An intuition-first, reproducible sandbox that uses Qiskit Aer’s density-matrix simulator o build and probe noisy quantum circuits (Bell state) under depolarizing and T1/T2 relaxation, quantifying the impact via purity, Bloch vectors, and fidelity.
+
+- **Gate Fidelity under Realistic Noise** _(planned)_  
+  Analyze quantum gate performance in the presence of measurement and decoherence noise.
   
 I am also developing a habit of publishing my work openly and contributing to accessible, educational quantum computing content.
 
