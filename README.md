@@ -10,7 +10,7 @@ Here on GitHub, I am building a portfolio of quantum computing projects using **
 - Decoherence simulation in superconducting qubits  
 - Gate fidelity and qubit reliability under noise  
 - Hardware-aware transpilation and layout visualization
-- Qiskit simulation of noise model
+- Qiskit simulation of noise model, open quantum system
 - Translating physical intuition into simulation-driven insight
 
 I am passionate about turning theory into practical tools and code that help advance next-generation quantum hardware.
