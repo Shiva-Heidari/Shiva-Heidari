@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shiva Heidari
 
-I am a Research Scientist with a Ph.D. in Condensed Matter Physics, currently transitioning into the quantum computing industry. My expertise lies in modeling quantum and suoerconducting devices, quantum coherence, and quantum transport in topological materials. I have led several simulation-driven research projects that bridge theoretical physics with experimental challenges, from topological superconductors to quantum coherence in device environments.
+I am a Research Scientist with a Ph.D. in Condensed Matter Physics, currently transitioning into the quantum computing industry. My expertise lies in modeling quantum and superconducting devices, quantum coherence, and quantum transport in topological materials. I have led several simulation-driven research projects that bridge theoretical physics with experimental challenges, from topological superconductors to quantum coherence in device environments.
 
 Here on GitHub, I am building a portfolio of quantum computing projects using **Qiskit** and **QuTiP**, showcasing my hands-on work in:
 
