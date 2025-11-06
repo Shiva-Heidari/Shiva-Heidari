@@ -12,6 +12,7 @@ Here on GitHub, I am building a portfolio of quantum computing projects using **
 - Hardware-aware transpilation and layout visualization
 - Qiskit simulation of noise model, open quantum system
 - Translating physical intuition into simulation-driven insight
+- Density-matrix simulations of noisy quantum circuits
 
 I am passionate about turning theory into practical tools and code that help advance next-generation quantum hardware.
 
