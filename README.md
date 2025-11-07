@@ -16,7 +16,6 @@ Here on GitHub, I am building a portfolio of quantum computing projects using **
 
 I am passionate about turning theory into practical tools and code that help advance next-generation quantum hardware.
 
-
 ## Projects in Progress
 - **Josephson Junction → Transmon Qubit**
 End-to-end modeling and simulation: connect device design to qubit behavior; run canonical control experiments with realistic noise.
